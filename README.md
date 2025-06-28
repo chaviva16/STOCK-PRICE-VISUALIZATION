@@ -30,4 +30,4 @@ This is a powerful data science dashboard built with **Streamlit** that allows u
 
 ```bash
 pip install -r requirements.txt
-streamlit run stock_visualizer_app.py
+streamlit run stock_price_app.py
